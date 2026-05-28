@@ -1,0 +1,10 @@
+{
+  "name": "Karalius Nuogas Panevėžys",
+  "description": "Premium restorano „Karalius Nuogas“ svetainė Panevėžyje – skaniausi burgeriai, šonkauliukai ir dienos pietūs už teisingą kainą.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
