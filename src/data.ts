@@ -13,7 +13,7 @@ export const RESTAURANT_INFO = {
     saturday: "12:00 - 22:00",
     sunday: "12:00 - 20:00",
   },
-  slogan: "Tikras skonis. Didelės porcijos. Normalios kainos.",
+  slogan: "Tikras skonis. Didelės porcijos. Geros kainos.",
   story: "Atsibodo perpus mažesni burgeriai už dvigubą kainą ir sterilūs auksiniai šaukštai? „Karalius Nuogas“ gimė Panevėžio širdyje tiems, kurie vertina tikrą, nepadailintą, sąžiningą maistą. Pas mus viskas atvira – jokio melo, jokių paslėptų mokesčių ir jokių vaikiškų porcijų. Čia karalius nuogas, nes jam nereikia puikuotis – jo skonis kalba pats už save!"
 };
 
@@ -122,7 +122,7 @@ export const REVIEWS: Review[] = [
     id: "rev-2",
     author: "Sandra K.",
     role: "Kompleksinių pietų fanė",
-    text: "Greičiau nei bet kur kitur! Kompleksiniai pietūs čia – išgelbėjimas per pietų pertrauką. Atneša sriubą akimirksniu, antras patiekalas visada šviežias, karštas ir ohoho kokio dydžio už tokią normalią kainą.",
+    text: "Greičiau nei bet kur kitur! Kompleksiniai pietūs čia – išgelbėjimas per pietų pertrauką. Atneša sriubą akimirksniu, antras patiekalas visada šviežias, karštas ir ohoho kokio dydžio už tokią gerą kainą.",
     rating: 5,
     date: "Prieš savaitę",
     sentiment: "loyal"

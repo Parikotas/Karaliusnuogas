@@ -87,7 +87,7 @@ export default function Hero() {
           <span className="text-transparent bg-clip-text bg-gradient-to-r from-red-500 via-[#F27D26] to-yellow-500">
             DIDELĖS PORCIJOS.
           </span> <br />
-          NORMALIOS KAINOS.
+          GEROS KAINOS.
         </motion.h1>
 
         {/* Hungry triggering Subtext */}
